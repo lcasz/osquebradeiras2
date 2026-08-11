@@ -1,0 +1,17 @@
+{
+  "info": "Este arquivo é apenas uma referência de estrutura. O site funciona 100% com LocalStorage no navegador — não é necessário carregar este arquivo. Use o botão 'Exportar dados' no Painel Admin para gerar um snapshot real dos seus dados, e 'Importar dados' para restaurá-lo.",
+  "estrutura": {
+    "players": "lista de jogadores (nome, apelido, numero, posicao, status, foto, gols, assistencias, jogos, cartoes, capitao, vice)",
+    "coaches": "lista de técnicos (nome, cargo, numero, descricao, foto)",
+    "formationKey": "formação tática atual (ex: 4-3-3)",
+    "lineupSlots": "posicionamento dos jogadores no campo",
+    "fields": "campos disponíveis para seleção",
+    "selectedFieldId": "campo atualmente selecionado",
+    "fieldSettings": "personalização visual do campo (cores, iluminação)",
+    "reservations": "reservas de campo feitas pelo time",
+    "events": "eventos do calendário (treinos, jogos, eventos)",
+    "teamSettings": "informações institucionais do time",
+    "theme": "tema visual (dark/light)",
+    "featuredPlayerId": "jogador em destaque na rodada"
+  }
+}
